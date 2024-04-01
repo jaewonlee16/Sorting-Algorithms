@@ -114,29 +114,25 @@ int* merge_sort(int* arr, int n) {
 
 int last_partition(int* arr, int n){
     int pivot = arr[n - 1];
-
-    int left_idx = 0;
-    int right_idx = n - 2;
     int temp;
-    while (left_idx < right_idx){
-        while(arr[left_idx] < pivot){
-            left_idx++;
-        }
-        while (arr[right_idx] > pivot){
-            right_idx--;
-        }
-        if (left_idx < right_idx){
-            // swap
-            temp = arr[left_idx];
-            arr[left_idx] = arr[right_idx];
-            arr[right_idx] = temp;
-        }
+  
+    int i = -1;
+    
+    for(int j = 0; j < n; j++){
+      if(arr[j] < pivot){
+        i++;
+        // swap
+        temp = arr[i];
+        arr[i] = arr[j];
+        arr[j] = temp;
+      }
     }
-    // swap pivot and right index
-    arr[n - 1] = arr[left_idx];
-    arr[left_idx] = pivot;
+    //swap
+    temp = arr[i + 1];
+    arr[i + 1] = arr[n - 1];
+    arr[n - 1] = temp;
 
-    return left_idx;
+    return (i + 1);
 }
 
 int* quick_sort_rand_piv(int* arr, int n) {
@@ -150,25 +146,15 @@ int* quick_sort_rand_piv(int* arr, int n) {
             sorted[i] = arr[i];
         }
         arr = sorted;
+        first = false;
     }
-    first = false;
-
 
     // base case
-    if (n == 1 || n == 0){
+    if (n == 0)
         return arr;
-    }
-    if (n == 2){
-        if (arr[0] > arr[1]){
-            int temp = arr[0];
-            arr[0] = arr[1];
-            arr[1] = temp;
-        }
-        return arr;
-    }
 
     // swap random and last pivot
-    int random_idx = rand() % (n - 1);
+    int random_idx = rand() % n;
     int tmp = arr[random_idx];
     arr[random_idx] = arr[n - 1];
     arr[n - 1] = tmp;
@@ -192,23 +178,14 @@ int* quick_sort_last_piv(int* arr, int n) {
             sorted[i] = arr[i];
         }
         arr = sorted;
+        first = false;
     }
-    first = false;
 
 
     // base case
-    if (n == 1 || n == 0){
+    if (n == 0)
         return arr;
-    }
-    if (n == 2){
-        if (arr[0] > arr[1]){
-            int temp = arr[0];
-            arr[0] = arr[1];
-            arr[1] = temp;
-        }
-        return arr;
-    }
-
+        
     int left_idx = last_partition(arr, n);
 
     quick_sort_last_piv(arr, left_idx);
@@ -344,19 +321,19 @@ int main(void) {
     int n;
 
     // example of gen_data
-    arr = gen_data(10);
+    arr = gen_data(10, 2);
     cout << "Example: ";
     print_arr(arr, 10);
     delete[] arr;
 
-    n = 1000;
+    n = 10000000;
     begin = system_clock::now();
     arr = gen_data(n);
     duration = duration_cast<milliseconds>(system_clock::now() - begin).count() / 1000.0;
     cout << "Time for gen data: " << duration << "s" << endl;
 
     begin = system_clock::now();
-    int* sorted = stooge_sort(arr, n);
+    int* sorted = quick_sort_rand_piv(arr, n);
     duration = duration_cast<milliseconds>(system_clock::now() - begin).count() / 1000.0;
     cout << "Time for sort: " << duration << "s" << endl;
 
