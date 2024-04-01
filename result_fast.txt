@@ -1,0 +1,219 @@
+{"n": 100, "seed": 0, "algorithm": "insertion sort", "sort_time": 0, "Sorted": 1}
+{"n": 100, "seed": 1, "algorithm": "insertion sort", "sort_time": 0, "Sorted": 1}
+{"n": 100, "seed": 2, "algorithm": "insertion sort", "sort_time": 0, "Sorted": 1}
+{"n": 100, "seed": 3, "algorithm": "insertion sort", "sort_time": 0, "Sorted": 1}
+{"n": 100, "seed": 4, "algorithm": "insertion sort", "sort_time": 0, "Sorted": 1}
+{"n": 1000, "seed": 0, "algorithm": "insertion sort", "sort_time": 0, "Sorted": 1}
+{"n": 1000, "seed": 1, "algorithm": "insertion sort", "sort_time": 0, "Sorted": 1}
+{"n": 1000, "seed": 2, "algorithm": "insertion sort", "sort_time": 0, "Sorted": 1}
+{"n": 1000, "seed": 3, "algorithm": "insertion sort", "sort_time": 0, "Sorted": 1}
+{"n": 1000, "seed": 4, "algorithm": "insertion sort", "sort_time": 0, "Sorted": 1}
+{"n": 10000, "seed": 0, "algorithm": "insertion sort", "sort_time": 0.009, "Sorted": 1}
+{"n": 10000, "seed": 1, "algorithm": "insertion sort", "sort_time": 0.009, "Sorted": 1}
+{"n": 10000, "seed": 2, "algorithm": "insertion sort", "sort_time": 0.009, "Sorted": 1}
+{"n": 10000, "seed": 3, "algorithm": "insertion sort", "sort_time": 0.009, "Sorted": 1}
+{"n": 10000, "seed": 4, "algorithm": "insertion sort", "sort_time": 0.009, "Sorted": 1}
+{"n": 100000, "seed": 0, "algorithm": "insertion sort", "sort_time": 0.907, "Sorted": 1}
+{"n": 100000, "seed": 1, "algorithm": "insertion sort", "sort_time": 0.918, "Sorted": 1}
+{"n": 100000, "seed": 2, "algorithm": "insertion sort", "sort_time": 0.901, "Sorted": 1}
+{"n": 100000, "seed": 3, "algorithm": "insertion sort", "sort_time": 0.916, "Sorted": 1}
+{"n": 100000, "seed": 4, "algorithm": "insertion sort", "sort_time": 0.908, "Sorted": 1}
+{"n": 1000000, "seed": 0, "algorithm": "insertion sort", "sort_time": 93.163, "Sorted": 1}
+{"n": 1000000, "seed": 1, "algorithm": "insertion sort", "sort_time": 94.038, "Sorted": 1}
+{"n": 1000000, "seed": 2, "algorithm": "insertion sort", "sort_time": 95.798, "Sorted": 1}
+{"n": 1000000, "seed": 3, "algorithm": "insertion sort", "sort_time": 98.543, "Sorted": 1}
+{"n": 1000000, "seed": 4, "algorithm": "insertion sort", "sort_time": 97.354, "Sorted": 1}
+{"n": 10000000, "seed": 0, "algorithm": "insertion sort", "sort_time": 12293.3, "Sorted": 1}
+{"n": 10000000, "seed": 1, "algorithm": "insertion sort", "sort_time": 12249.4, "Sorted": 1}
+{"n": 100, "seed": 0, "algorithm": "merge sort", "sort_time": 0, "Sorted": 1}
+{"n": 100, "seed": 1, "algorithm": "merge sort", "sort_time": 0, "Sorted": 1}
+{"n": 100, "seed": 2, "algorithm": "merge sort", "sort_time": 0, "Sorted": 1}
+{"n": 100, "seed": 3, "algorithm": "merge sort", "sort_time": 0, "Sorted": 1}
+{"n": 100, "seed": 4, "algorithm": "merge sort", "sort_time": 0, "Sorted": 1}
+{"n": 1000, "seed": 0, "algorithm": "merge sort", "sort_time": 0, "Sorted": 1}
+{"n": 1000, "seed": 1, "algorithm": "merge sort", "sort_time": 0, "Sorted": 1}
+{"n": 1000, "seed": 2, "algorithm": "merge sort", "sort_time": 0, "Sorted": 1}
+{"n": 1000, "seed": 3, "algorithm": "merge sort", "sort_time": 0, "Sorted": 1}
+{"n": 1000, "seed": 4, "algorithm": "merge sort", "sort_time": 0, "Sorted": 1}
+{"n": 10000, "seed": 0, "algorithm": "merge sort", "sort_time": 0, "Sorted": 1}
+{"n": 10000, "seed": 1, "algorithm": "merge sort", "sort_time": 0, "Sorted": 1}
+{"n": 10000, "seed": 2, "algorithm": "merge sort", "sort_time": 0, "Sorted": 1}
+{"n": 10000, "seed": 3, "algorithm": "merge sort", "sort_time": 0, "Sorted": 1}
+{"n": 10000, "seed": 4, "algorithm": "merge sort", "sort_time": 0, "Sorted": 1}
+{"n": 100000, "seed": 0, "algorithm": "merge sort", "sort_time": 0.009, "Sorted": 1}
+{"n": 100000, "seed": 1, "algorithm": "merge sort", "sort_time": 0.009, "Sorted": 1}
+{"n": 100000, "seed": 2, "algorithm": "merge sort", "sort_time": 0.009, "Sorted": 1}
+{"n": 100000, "seed": 3, "algorithm": "merge sort", "sort_time": 0.009, "Sorted": 1}
+{"n": 100000, "seed": 4, "algorithm": "merge sort", "sort_time": 0.009, "Sorted": 1}
+{"n": 1000000, "seed": 0, "algorithm": "merge sort", "sort_time": 0.104, "Sorted": 1}
+{"n": 1000000, "seed": 1, "algorithm": "merge sort", "sort_time": 0.104, "Sorted": 1}
+{"n": 1000000, "seed": 2, "algorithm": "merge sort", "sort_time": 0.105, "Sorted": 1}
+{"n": 1000000, "seed": 3, "algorithm": "merge sort", "sort_time": 0.105, "Sorted": 1}
+{"n": 1000000, "seed": 4, "algorithm": "merge sort", "sort_time": 0.106, "Sorted": 1}
+{"n": 10000000, "seed": 0, "algorithm": "merge sort", "sort_time": 1.227, "Sorted": 1}
+{"n": 10000000, "seed": 1, "algorithm": "merge sort", "sort_time": 1.232, "Sorted": 1}
+{"n": 10000000, "seed": 2, "algorithm": "merge sort", "sort_time": 1.208, "Sorted": 1}
+{"n": 10000000, "seed": 3, "algorithm": "merge sort", "sort_time": 1.185, "Sorted": 1}
+{"n": 10000000, "seed": 4, "algorithm": "merge sort", "sort_time": 1.243, "Sorted": 1}
+{"n": 100000000, "seed": 0, "algorithm": "merge sort", "sort_time": 13.796, "Sorted": 1}
+{"n": 100000000, "seed": 1, "algorithm": "merge sort", "sort_time": 14.609, "Sorted": 1}
+{"n": 100000000, "seed": 2, "algorithm": "merge sort", "sort_time": 14.865, "Sorted": 1}
+{"n": 100000000, "seed": 3, "algorithm": "merge sort", "sort_time": 14.462, "Sorted": 1}
+{"n": 100000000, "seed": 4, "algorithm": "merge sort", "sort_time": 14.403, "Sorted": 1}
+{"n": 100, "seed": 0, "algorithm": "quick sort rand", "sort_time": 0, "Sorted": 1}
+{"n": 100, "seed": 1, "algorithm": "quick sort rand", "sort_time": 0, "Sorted": 1}
+{"n": 100, "seed": 2, "algorithm": "quick sort rand", "sort_time": 0, "Sorted": 1}
+{"n": 100, "seed": 3, "algorithm": "quick sort rand", "sort_time": 0, "Sorted": 1}
+{"n": 100, "seed": 4, "algorithm": "quick sort rand", "sort_time": 0, "Sorted": 1}
+{"n": 1000, "seed": 0, "algorithm": "quick sort rand", "sort_time": 0, "Sorted": 1}
+{"n": 1000, "seed": 1, "algorithm": "quick sort rand", "sort_time": 0, "Sorted": 1}
+{"n": 1000, "seed": 2, "algorithm": "quick sort rand", "sort_time": 0, "Sorted": 1}
+{"n": 1000, "seed": 3, "algorithm": "quick sort rand", "sort_time": 0, "Sorted": 1}
+{"n": 1000, "seed": 4, "algorithm": "quick sort rand", "sort_time": 0, "Sorted": 1}
+{"n": 10000, "seed": 0, "algorithm": "quick sort rand", "sort_time": 0, "Sorted": 1}
+{"n": 10000, "seed": 1, "algorithm": "quick sort rand", "sort_time": 0, "Sorted": 1}
+{"n": 10000, "seed": 2, "algorithm": "quick sort rand", "sort_time": 0, "Sorted": 1}
+{"n": 10000, "seed": 3, "algorithm": "quick sort rand", "sort_time": 0, "Sorted": 1}
+{"n": 10000, "seed": 4, "algorithm": "quick sort rand", "sort_time": 0, "Sorted": 1}
+{"n": 100000, "seed": 0, "algorithm": "quick sort rand", "sort_time": 0.006, "Sorted": 1}
+{"n": 100000, "seed": 1, "algorithm": "quick sort rand", "sort_time": 0.006, "Sorted": 1}
+{"n": 100000, "seed": 2, "algorithm": "quick sort rand", "sort_time": 0.006, "Sorted": 1}
+{"n": 100000, "seed": 3, "algorithm": "quick sort rand", "sort_time": 0.006, "Sorted": 1}
+{"n": 100000, "seed": 4, "algorithm": "quick sort rand", "sort_time": 0.006, "Sorted": 1}
+{"n": 1000000, "seed": 0, "algorithm": "quick sort rand", "sort_time": 0.074, "Sorted": 1}
+{"n": 1000000, "seed": 1, "algorithm": "quick sort rand", "sort_time": 0.076, "Sorted": 1}
+{"n": 1000000, "seed": 2, "algorithm": "quick sort rand", "sort_time": 0.077, "Sorted": 1}
+{"n": 1000000, "seed": 3, "algorithm": "quick sort rand", "sort_time": 0.073, "Sorted": 1}
+{"n": 1000000, "seed": 4, "algorithm": "quick sort rand", "sort_time": 0.072, "Sorted": 1}
+{"n": 10000000, "seed": 0, "algorithm": "quick sort rand", "sort_time": 0.908, "Sorted": 1}
+{"n": 10000000, "seed": 1, "algorithm": "quick sort rand", "sort_time": 0.888, "Sorted": 1}
+{"n": 10000000, "seed": 2, "algorithm": "quick sort rand", "sort_time": 0.889, "Sorted": 1}
+{"n": 10000000, "seed": 3, "algorithm": "quick sort rand", "sort_time": 0.889, "Sorted": 1}
+{"n": 10000000, "seed": 4, "algorithm": "quick sort rand", "sort_time": 0.899, "Sorted": 1}
+{"n": 100000000, "seed": 0, "algorithm": "quick sort rand", "sort_time": 9.955, "Sorted": 1}
+{"n": 100000000, "seed": 1, "algorithm": "quick sort rand", "sort_time": 10.392, "Sorted": 1}
+{"n": 100000000, "seed": 2, "algorithm": "quick sort rand", "sort_time": 10.504, "Sorted": 1}
+{"n": 100000000, "seed": 3, "algorithm": "quick sort rand", "sort_time": 10.531, "Sorted": 1}
+{"n": 100000000, "seed": 4, "algorithm": "quick sort rand", "sort_time": 10.451, "Sorted": 1}
+
+{"n": 100, "seed": 0, "algorithm": "quick sort last", "sort_time": 0, "Sorted": 1}
+{"n": 100, "seed": 1, "algorithm": "quick sort last", "sort_time": 0, "Sorted": 1}
+{"n": 100, "seed": 2, "algorithm": "quick sort last", "sort_time": 0, "Sorted": 1}
+{"n": 100, "seed": 3, "algorithm": "quick sort last", "sort_time": 0, "Sorted": 1}
+{"n": 100, "seed": 4, "algorithm": "quick sort last", "sort_time": 0, "Sorted": 1}
+{"n": 1000, "seed": 0, "algorithm": "quick sort last", "sort_time": 0, "Sorted": 1}
+{"n": 1000, "seed": 1, "algorithm": "quick sort last", "sort_time": 0, "Sorted": 1}
+{"n": 1000, "seed": 2, "algorithm": "quick sort last", "sort_time": 0, "Sorted": 1}
+{"n": 1000, "seed": 3, "algorithm": "quick sort last", "sort_time": 0, "Sorted": 1}
+{"n": 1000, "seed": 4, "algorithm": "quick sort last", "sort_time": 0, "Sorted": 1}
+{"n": 10000, "seed": 0, "algorithm": "quick sort last", "sort_time": 0, "Sorted": 1}
+{"n": 10000, "seed": 1, "algorithm": "quick sort last", "sort_time": 0, "Sorted": 1}
+{"n": 10000, "seed": 2, "algorithm": "quick sort last", "sort_time": 0, "Sorted": 1}
+{"n": 10000, "seed": 3, "algorithm": "quick sort last", "sort_time": 0, "Sorted": 1}
+{"n": 10000, "seed": 4, "algorithm": "quick sort last", "sort_time": 0, "Sorted": 1}
+{"n": 100000, "seed": 0, "algorithm": "quick sort last", "sort_time": 0.005, "Sorted": 1}
+{"n": 100000, "seed": 1, "algorithm": "quick sort last", "sort_time": 0.005, "Sorted": 1}
+{"n": 100000, "seed": 2, "algorithm": "quick sort last", "sort_time": 0.005, "Sorted": 1}
+{"n": 100000, "seed": 3, "algorithm": "quick sort last", "sort_time": 0.005, "Sorted": 1}
+{"n": 100000, "seed": 4, "algorithm": "quick sort last", "sort_time": 0.005, "Sorted": 1}
+{"n": 1000000, "seed": 0, "algorithm": "quick sort last", "sort_time": 0.066, "Sorted": 1}
+{"n": 1000000, "seed": 1, "algorithm": "quick sort last", "sort_time": 0.066, "Sorted": 1}
+{"n": 1000000, "seed": 2, "algorithm": "quick sort last", "sort_time": 0.066, "Sorted": 1}
+{"n": 1000000, "seed": 3, "algorithm": "quick sort last", "sort_time": 0.066, "Sorted": 1}
+{"n": 1000000, "seed": 4, "algorithm": "quick sort last", "sort_time": 0.066, "Sorted": 1}
+{"n": 10000000, "seed": 0, "algorithm": "quick sort last", "sort_time": 0.796, "Sorted": 1}
+{"n": 10000000, "seed": 1, "algorithm": "quick sort last", "sort_time": 0.852, "Sorted": 1}
+{"n": 10000000, "seed": 2, "algorithm": "quick sort last", "sort_time": 0.881, "Sorted": 1}
+{"n": 10000000, "seed": 3, "algorithm": "quick sort last", "sort_time": 0.804, "Sorted": 1}
+{"n": 10000000, "seed": 4, "algorithm": "quick sort last", "sort_time": 0.883, "Sorted": 1}
+{"n": 100000000, "seed": 0, "algorithm": "quick sort last", "sort_time": 9.088, "Sorted": 1}
+{"n": 100000000, "seed": 1, "algorithm": "quick sort last", "sort_time": 9.467, "Sorted": 1}
+{"n": 100000000, "seed": 2, "algorithm": "quick sort last", "sort_time": 9.21, "Sorted": 1}
+{"n": 100000000, "seed": 3, "algorithm": "quick sort last", "sort_time": 9.195, "Sorted": 1}
+{"n": 100000000, "seed": 4, "algorithm": "quick sort last", "sort_time": 9.425, "Sorted": 1}
+
+{"n": 100, "seed": 0, "algorithm": "heap sort", "sort_time": 0, "Sorted": 1}
+{"n": 100, "seed": 1, "algorithm": "heap sort", "sort_time": 0, "Sorted": 1}
+{"n": 100, "seed": 2, "algorithm": "heap sort", "sort_time": 0, "Sorted": 1}
+{"n": 100, "seed": 3, "algorithm": "heap sort", "sort_time": 0, "Sorted": 1}
+{"n": 100, "seed": 4, "algorithm": "heap sort", "sort_time": 0, "Sorted": 1}
+{"n": 1000, "seed": 0, "algorithm": "heap sort", "sort_time": 0, "Sorted": 1}
+{"n": 1000, "seed": 1, "algorithm": "heap sort", "sort_time": 0, "Sorted": 1}
+{"n": 1000, "seed": 2, "algorithm": "heap sort", "sort_time": 0, "Sorted": 1}
+{"n": 1000, "seed": 3, "algorithm": "heap sort", "sort_time": 0, "Sorted": 1}
+{"n": 1000, "seed": 4, "algorithm": "heap sort", "sort_time": 0, "Sorted": 1}
+{"n": 10000, "seed": 0, "algorithm": "heap sort", "sort_time": 0, "Sorted": 1}
+{"n": 10000, "seed": 1, "algorithm": "heap sort", "sort_time": 0, "Sorted": 1}
+{"n": 10000, "seed": 2, "algorithm": "heap sort", "sort_time": 0, "Sorted": 1}
+{"n": 10000, "seed": 3, "algorithm": "heap sort", "sort_time": 0, "Sorted": 1}
+{"n": 10000, "seed": 4, "algorithm": "heap sort", "sort_time": 0, "Sorted": 1}
+{"n": 100000, "seed": 0, "algorithm": "heap sort", "sort_time": 0.009, "Sorted": 1}
+{"n": 100000, "seed": 1, "algorithm": "heap sort", "sort_time": 0.008, "Sorted": 1}
+{"n": 100000, "seed": 2, "algorithm": "heap sort", "sort_time": 0.008, "Sorted": 1}
+{"n": 100000, "seed": 3, "algorithm": "heap sort", "sort_time": 0.008, "Sorted": 1}
+{"n": 100000, "seed": 4, "algorithm": "heap sort", "sort_time": 0.008, "Sorted": 1}
+{"n": 1000000, "seed": 0, "algorithm": "heap sort", "sort_time": 0.115, "Sorted": 1}
+{"n": 1000000, "seed": 1, "algorithm": "heap sort", "sort_time": 0.113, "Sorted": 1}
+{"n": 1000000, "seed": 2, "algorithm": "heap sort", "sort_time": 0.113, "Sorted": 1}
+{"n": 1000000, "seed": 3, "algorithm": "heap sort", "sort_time": 0.123, "Sorted": 1}
+{"n": 1000000, "seed": 4, "algorithm": "heap sort", "sort_time": 0.13, "Sorted": 1}
+{"n": 10000000, "seed": 0, "algorithm": "heap sort", "sort_time": 2.138, "Sorted": 1}
+{"n": 10000000, "seed": 1, "algorithm": "heap sort", "sort_time": 2.168, "Sorted": 1}
+{"n": 10000000, "seed": 2, "algorithm": "heap sort", "sort_time": 2.112, "Sorted": 1}
+{"n": 10000000, "seed": 3, "algorithm": "heap sort", "sort_time": 2.102, "Sorted": 1}
+{"n": 10000000, "seed": 4, "algorithm": "heap sort", "sort_time": 2.099, "Sorted": 1}
+{"n": 100000000, "seed": 0, "algorithm": "heap sort", "sort_time": 33.864, "Sorted": 1}
+{"n": 100000000, "seed": 1, "algorithm": "heap sort", "sort_time": 35.716, "Sorted": 1}
+{"n": 100000000, "seed": 2, "algorithm": "heap sort", "sort_time": 35.383, "Sorted": 1}
+{"n": 100000000, "seed": 3, "algorithm": "heap sort", "sort_time": 37.617, "Sorted": 1}
+{"n": 100000000, "seed": 4, "algorithm": "heap sort", "sort_time": 38.27, "Sorted": 1}
+{"n": 100, "seed": 0, "algorithm": "radix sort", "sort_time": 0, "Sorted": 1}
+{"n": 100, "seed": 1, "algorithm": "radix sort", "sort_time": 0, "Sorted": 1}
+{"n": 100, "seed": 2, "algorithm": "radix sort", "sort_time": 0, "Sorted": 1}
+{"n": 100, "seed": 3, "algorithm": "radix sort", "sort_time": 0, "Sorted": 1}
+{"n": 100, "seed": 4, "algorithm": "radix sort", "sort_time": 0, "Sorted": 1}
+{"n": 1000, "seed": 0, "algorithm": "radix sort", "sort_time": 0, "Sorted": 1}
+{"n": 1000, "seed": 1, "algorithm": "radix sort", "sort_time": 0, "Sorted": 1}
+{"n": 1000, "seed": 2, "algorithm": "radix sort", "sort_time": 0, "Sorted": 1}
+{"n": 1000, "seed": 3, "algorithm": "radix sort", "sort_time": 0, "Sorted": 1}
+{"n": 1000, "seed": 4, "algorithm": "radix sort", "sort_time": 0, "Sorted": 1}
+{"n": 10000, "seed": 0, "algorithm": "radix sort", "sort_time": 0, "Sorted": 1}
+{"n": 10000, "seed": 1, "algorithm": "radix sort", "sort_time": 0, "Sorted": 1}
+{"n": 10000, "seed": 2, "algorithm": "radix sort", "sort_time": 0, "Sorted": 1}
+{"n": 10000, "seed": 3, "algorithm": "radix sort", "sort_time": 0, "Sorted": 1}
+{"n": 10000, "seed": 4, "algorithm": "radix sort", "sort_time": 0, "Sorted": 1}
+{"n": 100000, "seed": 0, "algorithm": "radix sort", "sort_time": 0.003, "Sorted": 1}
+{"n": 100000, "seed": 1, "algorithm": "radix sort", "sort_time": 0.003, "Sorted": 1}
+{"n": 100000, "seed": 2, "algorithm": "radix sort", "sort_time": 0.003, "Sorted": 1}
+{"n": 100000, "seed": 3, "algorithm": "radix sort", "sort_time": 0.003, "Sorted": 1}
+{"n": 100000, "seed": 4, "algorithm": "radix sort", "sort_time": 0.003, "Sorted": 1}
+{"n": 1000000, "seed": 0, "algorithm": "radix sort", "sort_time": 0.04, "Sorted": 1}
+{"n": 1000000, "seed": 1, "algorithm": "radix sort", "sort_time": 0.042, "Sorted": 1}
+{"n": 1000000, "seed": 2, "algorithm": "radix sort", "sort_time": 0.041, "Sorted": 1}
+{"n": 1000000, "seed": 3, "algorithm": "radix sort", "sort_time": 0.041, "Sorted": 1}
+{"n": 1000000, "seed": 4, "algorithm": "radix sort", "sort_time": 0.041, "Sorted": 1}
+{"n": 10000000, "seed": 0, "algorithm": "radix sort", "sort_time": 0.85, "Sorted": 1}
+{"n": 10000000, "seed": 1, "algorithm": "radix sort", "sort_time": 0.775, "Sorted": 1}
+{"n": 10000000, "seed": 2, "algorithm": "radix sort", "sort_time": 0.617, "Sorted": 1}
+{"n": 10000000, "seed": 3, "algorithm": "radix sort", "sort_time": 1.582, "Sorted": 1}
+{"n": 10000000, "seed": 4, "algorithm": "radix sort", "sort_time": 1.374, "Sorted": 1}
+{"n": 100000000, "seed": 0, "algorithm": "radix sort", "sort_time": 11.217, "Sorted": 1}
+{"n": 100000000, "seed": 1, "algorithm": "radix sort", "sort_time": 7.572, "Sorted": 1}
+{"n": 100000000, "seed": 2, "algorithm": "radix sort", "sort_time": 9.505, "Sorted": 1}
+{"n": 100000000, "seed": 3, "algorithm": "radix sort", "sort_time": 10.488, "Sorted": 1}
+{"n": 100000000, "seed": 4, "algorithm": "radix sort", "sort_time": 10.937, "Sorted": 1}
+{"n": 100, "seed": 0, "algorithm": "stooge sort", "sort_time": 0, "Sorted": 1}
+{"n": 100, "seed": 1, "algorithm": "stooge sort", "sort_time": 0, "Sorted": 1}
+{"n": 100, "seed": 2, "algorithm": "stooge sort", "sort_time": 0, "Sorted": 1}
+{"n": 100, "seed": 3, "algorithm": "stooge sort", "sort_time": 0, "Sorted": 1}
+{"n": 100, "seed": 4, "algorithm": "stooge sort", "sort_time": 0, "Sorted": 1}
+{"n": 1000, "seed": 0, "algorithm": "stooge sort", "sort_time": 0.122, "Sorted": 1}
+{"n": 1000, "seed": 1, "algorithm": "stooge sort", "sort_time": 0.12, "Sorted": 1}
+{"n": 1000, "seed": 2, "algorithm": "stooge sort", "sort_time": 0.12, "Sorted": 1}
+{"n": 1000, "seed": 3, "algorithm": "stooge sort", "sort_time": 0.121, "Sorted": 1}
+{"n": 1000, "seed": 4, "algorithm": "stooge sort", "sort_time": 0.121, "Sorted": 1}
+{"n": 10000, "seed": 0, "algorithm": "stooge sort", "sort_time": 96.784, "Sorted": 1}
+{"n": 10000, "seed": 1, "algorithm": "stooge sort", "sort_time": 95.914, "Sorted": 1}
+{"n": 10000, "seed": 2, "algorithm": "stooge sort", "sort_time": 98.181, "Sorted": 1}
+{"n": 10000, "seed": 3, "algorithm": "stooge sort", "sort_time": 100.231, "Sorted": 1}
+{"n": 10000, "seed": 4, "algorithm": "stooge sort", "sort_time": 97.847, "Sorted": 1}
