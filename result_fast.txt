@@ -95,7 +95,6 @@
 {"n": 100000000, "seed": 2, "algorithm": "quick sort rand", "sort_time": 10.504, "Sorted": 1}
 {"n": 100000000, "seed": 3, "algorithm": "quick sort rand", "sort_time": 10.531, "Sorted": 1}
 {"n": 100000000, "seed": 4, "algorithm": "quick sort rand", "sort_time": 10.451, "Sorted": 1}
-
 {"n": 100, "seed": 0, "algorithm": "quick sort last", "sort_time": 0, "Sorted": 1}
 {"n": 100, "seed": 1, "algorithm": "quick sort last", "sort_time": 0, "Sorted": 1}
 {"n": 100, "seed": 2, "algorithm": "quick sort last", "sort_time": 0, "Sorted": 1}
@@ -131,7 +130,6 @@
 {"n": 100000000, "seed": 2, "algorithm": "quick sort last", "sort_time": 9.21, "Sorted": 1}
 {"n": 100000000, "seed": 3, "algorithm": "quick sort last", "sort_time": 9.195, "Sorted": 1}
 {"n": 100000000, "seed": 4, "algorithm": "quick sort last", "sort_time": 9.425, "Sorted": 1}
-
 {"n": 100, "seed": 0, "algorithm": "heap sort", "sort_time": 0, "Sorted": 1}
 {"n": 100, "seed": 1, "algorithm": "heap sort", "sort_time": 0, "Sorted": 1}
 {"n": 100, "seed": 2, "algorithm": "heap sort", "sort_time": 0, "Sorted": 1}
