@@ -78,9 +78,7 @@ This project measured and compared the average sorting times of various algorith
    ./sorting_algorithms
    ```
 3. **Analyze and plot results using the Python script**:
-   ```bash
-   python analysis.py
-   ```
+   run the plot.ipynb notebook
 
 ### Dependencies
 
